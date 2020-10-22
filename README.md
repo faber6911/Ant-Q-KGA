@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://datascience.disco.unimib.it/it/"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/DSunimib.png" width = "100%"></a>
+  <a href="http://datascience.disco.unimib.it/it/"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/DSunimib.png" width = "100%"></a>
 </p>
 
 <h3 align = "center">An hybrid metaheuristic approach</h3> 
@@ -54,8 +54,8 @@ Folders:
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://github.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://github.com/malborroni/Machine_Learning_Project/raw/master/img/174857.svg" width = "3%"></a>
+  <a href = "https://github.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/GitHub.png" width = "3%"></a>
 </p>
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
@@ -65,8 +65,8 @@ Folders:
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://github.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://github.com/malborroni/Machine_Learning_Project/raw/master/img/174857.svg" width = "3%"></a>
+  <a href = "https://github.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/GitHub.png" width = "3%"></a>
 </p>
 
 &#8860; &nbsp; **Massimiliano Perletti**
@@ -76,6 +76,6 @@ Folders:
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://github.com/maxi93/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://github.com/malborroni/Machine_Learning_Project/raw/master/img/174857.svg" width = "3%"></a>
+  <a href = "https://github.com/maxi93/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/GitHub.png" width = "3%"></a>
 </p>
