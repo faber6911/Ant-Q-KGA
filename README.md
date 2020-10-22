@@ -28,8 +28,8 @@ Folders:
   <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/genomic">genomic</a> contains out implementation of the genomic algorithm, along with the hybrid approach.</li><br>
   <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-ACO">parallel-ACO</a> contains the parallel implementation of Ant Colony Algorithm in Python.</li><br>
   <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-AntQ">parallel-AntQ</a> contains the parallel implementation of Ant Colony Algorithm in Python.</li><br>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/presentation">presentation/slides</a> are sections under developement (spoiler alert: should contain the presentation slides!)</li><br>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report">report</a> contains the project repo along with its latex source code.</li>
+  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/presentation">presentation/slides</a> contain the presentation <a href="https://github.com/DBertazioli/Ant-Q-KGA/blob/master/presentation/slide_models.pdf">slides</a>.</li><br>
+  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report">report</a> contains the project repo along with its latex source code. <a href="https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report.pdf">Here</a> for the PDF.</li>
 </ul> -->
   
   - [**Sequential_ACO**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/Sequential_ACO) contains the sequential ACO implementation, used as an internal reference while developing the parallel algorithm. No results among those produced in the report belongs to such an implementation.
@@ -79,6 +79,7 @@ Folders:
 <p align = "center">
   <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
   <a href = "https://github.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+</p>
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
 
@@ -89,6 +90,7 @@ Folders:
 <p align = "center">
   <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
   <a href = "https://github.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+</p>
 
 &#8860; &nbsp; **Massimiliano Perletti**
 
@@ -99,3 +101,4 @@ Folders:
 <p align = "center">
   <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
   <a href = "https://github.com/maxi93/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+</p>
