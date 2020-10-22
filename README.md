@@ -23,48 +23,25 @@ Applied to symmetric Travelling Salesman Problem
 <a name="structure"></a>
 ## &#9741; &nbsp; Repo Structure
 Folders:
-<!--<ul>
+<ul>
   <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/Sequential_ACO">Sequential_ACO</a> contains the sequential ACO implementation, used as an internal reference while developing the parallel algorithm. No results among those produced in the report belongs to such an implementation.</li><br>
   <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/genomic">genomic</a> contains out implementation of the genomic algorithm, along with the hybrid approach.</li><br>
   <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-ACO">parallel-ACO</a> contains the parallel implementation of Ant Colony Algorithm in Python.</li><br>
   <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-AntQ">parallel-AntQ</a> contains the parallel implementation of Ant Colony Algorithm in Python.</li><br>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/presentation">presentation/slides</a> contain the presentation <a href="https://github.com/DBertazioli/Ant-Q-KGA/blob/master/presentation/slide_models.pdf">slides</a>.</li><br>
+  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/presentation">presentation</a> contain the presentation <a href="https://github.com/DBertazioli/Ant-Q-KGA/blob/master/presentation/slide_models.pdf">slides</a>.</li><br>
   <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report">report</a> contains the project repo along with its latex source code. <a href="https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report.pdf">Here</a> for the PDF.</li>
-</ul> -->
-  
-  - [**Sequential_ACO**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/Sequential_ACO) contains the sequential ACO implementation, used as an internal reference while developing the parallel algorithm. No results among those produced in the report belongs to such an implementation.
-
-  - [**genomic**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/genomic) contains out implementation of the genomic algorithm, along with the hybrid approach.
-  
-  - [**parallel-ACO**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-ACO) contains the parallel implementation of Ant Colony Algorithm in Python.
-  
-  - [**parallel-AntQ**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-AntQ) contains the parallel implementation of Ant-Q Algorithm in Python.
-  
-  - [**presentation**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/presentation) contain the presentation <a href="https://github.com/DBertazioli/Ant-Q-KGA/blob/master/presentation/slide_models.pdf">slides</a>.
-  
-  - [**report**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report) contains the project repo along with its latex source code. <a href="https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report.pdf">Here</a> for the PDF.
-  
-  
-<!-- ## To Do List:
-<ol>
-  <li>Find benchmarks (stile taillard) (done, available at)
-    <ul>
-       <li><a href = "https://wwwproxy.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp/">Data</a> <br>
-        <a href = "https://wwwproxy.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/STSP.html">Optimal solutions</a></li>
-    </ul>
-  </li>
-  <li>Approach genetic TSP</li>
-  <li>Study</li>
-</ol> -->
+</ul>
 
 <a name="datasets"></a>
 ## &#9741; &nbsp; Datasets for test performances
 
-- [dj38](http://www.math.uwaterloo.ca/tsp/world/dj38.tsp) <br>
-- [berlin52](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/berlin52.tsp) <br>
-- [ch130](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/ch130.tsp) <br>
-- [d198](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/d198.tsp) <br>
-- [pr1002](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/pr1002.tsp) <br>
+<ul>
+  <li><a href = "http://www.math.uwaterloo.ca/tsp/world/dj38.tsp">dj38</a></li>
+  <li><a href = "http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/berlin52.tsp">berlin52</a></li>
+  <li><a href = "http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/ch130.tsp">ch130</a></li>
+  <li><a href = "http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/d198.tsp">d198</a></li>
+  <li><a href = "http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/pr1002.tsp">pr1002</a></li>
+</ul>
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
