@@ -40,9 +40,9 @@ Folders:
   
   - [**parallel-AntQ**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-AntQ) contains the parallel implementation of Ant-Q Algorithm in Python.
   
-  - [**presentation**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/presentation) is a section under developement (spoiler alert: should contain the presentation slides!)
+  - [**presentation**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/presentation) contain the presentation <a href="https://github.com/DBertazioli/Ant-Q-KGA/blob/master/presentation/slide_models.pdf">slides</a>.
   
-  - [**report**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report) contains the project repo along with its latex source code.
+  - [**report**](https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report) contains the project repo along with its latex source code. <a href="https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report.pdf">Here</a> for the PDF.
   
   
 <!-- ## To Do List:
