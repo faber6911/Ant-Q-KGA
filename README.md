@@ -24,12 +24,12 @@ Applied to symmetric Travelling Salesman Problem
 ## &#9741; &nbsp; Repo Structure
 Folders:
 <ul>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/Sequential_ACO">Sequential_ACO</a> contains the sequential ACO implementation, used as an internal reference while developing the parallel algorithm. No results among those produced in the report belongs to such an implementation.</li><br>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/genomic">genomic</a> contains out implementation of the genomic algorithm, along with the hybrid approach.</li><br>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-ACO">parallel-ACO</a> contains the parallel implementation of Ant Colony Algorithm in Python.</li><br>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/parallel-AntQ">parallel-AntQ</a> contains the parallel implementation of Ant Colony Algorithm in Python.</li><br>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/presentation">presentation</a> contain the presentation <a href="https://github.com/DBertazioli/Ant-Q-KGA/blob/master/presentation/slide_models.pdf">slides</a>.</li><br>
-  <li><a href = "https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report">report</a> contains the project repo along with its latex source code. <a href="https://github.com/DBertazioli/Ant-Q-KGA/tree/master/report.pdf">Here</a> for the PDF.</li>
+  <li><a href = "https://github.com/faber6911/Ant-Q-KGA/tree/master/Sequential_ACO">Sequential_ACO</a> contains the sequential ACO implementation, used as an internal reference while developing the parallel algorithm. No results among those produced in the report belongs to such an implementation.</li><br>
+  <li><a href = "https://github.com/faber6911/Ant-Q-KGA/tree/master/genomic">genomic</a> contains out implementation of the genomic algorithm, along with the hybrid approach.</li><br>
+  <li><a href = "https://github.com/faber6911/Ant-Q-KGA/tree/master/parallel-ACO">parallel-ACO</a> contains the parallel implementation of Ant Colony Algorithm in Python.</li><br>
+  <li><a href = "https://github.com/faber6911/Ant-Q-KGA/tree/master/parallel-AntQ">parallel-AntQ</a> contains the parallel implementation of Ant Colony Algorithm in Python.</li><br>
+  <li><a href = "https://github.com/faber6911/Ant-Q-KGA/tree/master/presentation">presentation</a> contain the presentation <a href="https://github.com/faber6911/Ant-Q-KGA/blob/master/presentation/slide_models.pdf">slides</a>.</li><br>
+  <li><a href = "https://github.com/faber6911/Ant-Q-KGA/tree/master/report">report</a> contains the project repo along with its latex source code. <a href="https://github.com/faber6911/Ant-Q-KGA/blob/master/report/report.pdf">Here</a> for the PDF.</li>
 </ul>
 
 <a name="datasets"></a>
